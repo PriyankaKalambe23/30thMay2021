@@ -1,0 +1,11 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 9ADE-E2AF
+
+ Directory of D:\Priyanka\workspace\gitProj1
+
+28-05-2021  22:10    <DIR>          .
+28-05-2021  22:10    <DIR>          ..
+28-05-2021  22:00                 6 test1.txt
+28-05-2021  22:10                 0 test2.txt
+               2 File(s)              6 bytes
+               2 Dir(s)  690,698,567,680 bytes free
